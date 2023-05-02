@@ -1,0 +1,21 @@
+---------------------------------------------------------------------
+Backup was created at,09/11/2022 00:24:15
+ACCOUNT Table
+9999999999,admin,admin,acc505a1a9d9d3cfd7a9f2cc7237dc77a25aafc74502bcef541a79b3192e9fb3,admin@ksu.edu.sa,0500000000,admin
+1234567891,Saleh,Alhadlaq,523aa18ecb892c51fbdbe28c57e10a92419e0a73e8931e578b98baffccf99cdd,user1@ksu.edu.sa,0512345678,student
+EVENT Table
+68448,Riyadh Cup,Riyadh,1,0,2022-11-09 00:23
+82389,World Cup,Qatar,5,0,2022-11-10 05:00
+BOOKING Table
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+Backup was created at,09/11/2022 00:25:16
+ACCOUNT Table
+9999999999,admin,admin,acc505a1a9d9d3cfd7a9f2cc7237dc77a25aafc74502bcef541a79b3192e9fb3,admin@ksu.edu.sa,0500000000,admin
+1234567891,Saleh,Alhadlaq,523aa18ecb892c51fbdbe28c57e10a92419e0a73e8931e578b98baffccf99cdd,user1@ksu.edu.sa,0512345678,student
+EVENT Table
+68448,Riyadh Cup,Riyadh,1,0,2022-11-09 00:23
+82389,World Cup,Qatar,5,1,2022-11-10 05:00
+BOOKING Table
+1234567891,82389,World Cup,Qatar,2022-11-10 05:00
+---------------------------------------------------------------------
